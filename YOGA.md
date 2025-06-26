@@ -1,1 +1,3 @@
 # Yoga
+
+## Integrantes del grupo
